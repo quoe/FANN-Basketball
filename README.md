@@ -1,2 +1,2 @@
 # FANN-Basketball
-Fast Artificial Neural Network Library, Basketball
+Тренировочная площадка для игры в баскетбол нейросети (через Fast Artificial Neural Network)
