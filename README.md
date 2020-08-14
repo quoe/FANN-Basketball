@@ -1,5 +1,5 @@
 # FANN-Basketball
-Fast Artificial Neural Network Library, Basketball.
+Fast Artificial Neural Network Library, Basketball.  
 Баскетбольная площадка, на которой нейросеть (FANN) тренируется бросать мяч в корзину.
 
 Unity 2017.1.0p5.
